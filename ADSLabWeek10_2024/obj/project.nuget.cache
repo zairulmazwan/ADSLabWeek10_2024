@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "X73nUORa8qpAiUlOJRKSL6n2aHY7K/tKscsk/52cwYLEOAN63oW1D0dSMPS1BJweSUy93AXDZL6GVAQFe/JJaQ==",
+  "success": true,
+  "projectFilePath": "/Users/zairulmazwan/Dotnet/ADSLabWeek10_2024/ADSLabWeek10_2024/ADSLabWeek12.csproj",
+  "expectedPackageFiles": [
+    "/Users/zairulmazwan/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/zairulmazwan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/zairulmazwan/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.15/microsoft.netcore.app.host.osx-arm64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
