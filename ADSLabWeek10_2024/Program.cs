@@ -6,4 +6,9 @@ ReadWriteFile.printList(data);
 // GeneticAlgo ga = new GeneticAlgo();
 // ga.runGA(20, data);
 
+
+
+
+
+
 //©ZairulMazwan©

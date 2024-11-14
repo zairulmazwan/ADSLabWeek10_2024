@@ -42,3 +42,4 @@
 /Users/zairulmazwan/Dotnet/ADSLabWeek10_2024/ADSLabWeek10_2024/bin/Debug/net7.0/ADSLabWeek12.pdb
 /Users/zairulmazwan/Dotnet/ADSLabWeek10_2024/ADSLabWeek10_2024/obj/Debug/net7.0/ADSLabWeek12.genruntimeconfig.cache
 /Users/zairulmazwan/Dotnet/ADSLabWeek10_2024/ADSLabWeek10_2024/obj/Debug/net7.0/ref/ADSLabWeek12.dll
+/Users/zairulmazwan/Dotnet/ADSLabWeek10_2024/ADSLabWeek10_2024/obj/Debug/net7.0/ADSLabWeek12.sourcelink.json
