@@ -62,9 +62,9 @@ public class GeneticAlgo
         // myPop.printPopulation();
 
         // Write results to csv files: writeFitnessResults, writeSolutions, writePopulation: You must create these variables to save the results in CSV files. 
-        // FileData.writeFitnessResults(results,"results.csv");
-        // FileData.writeSolutions(solutions,"solutions.csv");
-        // FileData.writePopulation(myPop,"Population.csv");
+        // ReadWriteFile.writeFitnessResults(results,"results.csv");
+        // ReadWriteFile.writeSolutions(solutions,"solutions.csv");
+        // ReadWriteFile.writePopulation(myPop,"Population.csv");
 
         
 
